@@ -1,3 +1,5 @@
+/*Huitrón Was-Szabo Elizabeth Desireé
+Ejercicio 2*/
 #include <stdio.h>
 int main ()
 {
